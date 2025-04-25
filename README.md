@@ -1,4 +1,4 @@
-<h1>Hi, I'm Arbaaz, an <a href="http://linkedin.com/ArbaazShah">IT Professional</h1>
+<h1>Hi, I'm Arbaaz, an <a href="https://www.linkedin.com/in/arbaaz-shah-0486a1190/">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
