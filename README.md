@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Azure Basics</b>
-  - [Creating Virtual Machines in Azure](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Creating Virtual Machines in Azure](https://github.com/ArbaazShah/Creating-Virtual-Machines-in-Azure)
  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
